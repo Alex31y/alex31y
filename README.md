@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **olexiy.lysytsya@gmail.com**
 
-- ⚡ Fun fact **I cannot ride a bike lol**
+- ⚡ Fun fact **my cat Frida likes to distract me while im coding.. i hope it's just a phase**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
