@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex go check my website: https://alex31y.github.io/</h1>
+<h1 align="center">Hi 👋, I'm Alex<br> go check my website: https://alex31y.github.io/</h1>
 <h3 align="center">A passionate backend developer from Italy</h3>
 
 - 🔭 I’m currently working on my Thesis on statistical inference [https://github.com/Alex31y/Thesi](https://github.com/Alex31y/Thesi)
