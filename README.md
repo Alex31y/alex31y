@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my Thesis on statistical inference [https://github.com/Alex31y/Thesi](https://github.com/Alex31y/Thesi)
 
-- 🌱 I’m currently learning **stathistics fundamentals for machine learning**
+- 🌱 I’m currently learning **stathistics fundamentals for machine learning and data visualization**
 
 - 💬 Ask me about **Java, Spring, Data Analysis and visualization**
 
