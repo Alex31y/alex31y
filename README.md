@@ -11,7 +11,6 @@
 
 - ⚡ Fun fact **my cat Frida likes to distract me while im coding.. i hope it's just a phase**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
