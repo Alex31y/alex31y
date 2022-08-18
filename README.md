@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alex<br>https://alex31y.github.io/</h1>
+<h1 align="center">Hi 👋, I'm Alex<br><a href="https://alex31y.github.io/">personal web site</a></h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
