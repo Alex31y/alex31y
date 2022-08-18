@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alex<br>https://alex31y.github.io/</h1>
-<h3 align="center">A passionate backend developer from Italy</h3>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+<h3 align="center">A backend developer with a passion for statistics</h3>
 
 - 🔭 I’m currently working on my Thesis on statistical inference **https://alex31y.github.io/data**
 
